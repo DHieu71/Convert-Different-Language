@@ -1,0 +1,79 @@
+1
+00:00:00,060 --> 00:00:04,740
+Hey guys, welcome to day 17 of 100 Days of Code. Now,
+
+2
+00:00:04,770 --> 00:00:05,430
+today
+
+3
+00:00:05,430 --> 00:00:09,690
+we're going to be focusing on how we actually create the classes that we've been
+
+4
+00:00:09,690 --> 00:00:11,910
+using in yesterday's lessons.
+
+5
+00:00:12,480 --> 00:00:17,480
+Today's final project that we're going to be building up towards is a quiz game.
+
+6
+00:00:18,180 --> 00:00:20,460
+So we're going to be able to create a true-false quiz,
+
+7
+00:00:20,850 --> 00:00:22,260
+and we'll be able to play the quiz,
+
+8
+00:00:22,620 --> 00:00:25,110
+answer the questions and keep track of score.
+
+9
+00:00:25,560 --> 00:00:30,560
+But we're gonna be building this completely using Object Oriented Programming. We're
+
+10
+00:00:30,570 --> 00:00:35,040
+going to be creating our classes ourselves and then using the objects created
+
+11
+00:00:35,040 --> 00:00:39,480
+from those classes in order to build this game. And once you're done,
+
+12
+00:00:39,570 --> 00:00:44,520
+this is what you'll be able to create. Question one, A slug's blood is green,
+
+13
+00:00:44,520 --> 00:00:47,760
+true or false. True. Now,
+
+14
+00:00:47,790 --> 00:00:51,090
+if you want to have a play around with the final project to get a feel for how
+
+15
+00:00:51,090 --> 00:00:51,690
+it works,
+
+16
+00:00:51,690 --> 00:00:56,550
+then you'll find a link to this final version of the quiz game in the course
+
+17
+00:00:56,550 --> 00:00:58,920
+resources. But once you're ready,
+
+18
+00:00:59,130 --> 00:01:02,610
+then head over to the next lesson and we're going to get started by learning how
+
+19
+00:01:02,610 --> 00:01:07,110
+to create our own custom classes. So, for all of that and more,
+
+20
+00:01:07,230 --> 00:01:07,710
+I'll see you there.

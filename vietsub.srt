@@ -1,0 +1,79 @@
+﻿1
+00:00:00,060 --> 00:00:04,740
+Xin chào các bạn, chào mừng đến với ngày 17 của 100 Ngày viết mã. Bây giờ,
+
+2
+00:00:04,770 --> 00:00:05,430
+hôm nay
+
+3
+00:00:05,430 --> 00:00:09,690
+chúng tôi sẽ tập trung vào cách chúng tôi thực sự tạo ra các lớp mà chúng tôi đã từng
+
+4
+00:00:09,690 --> 00:00:11,910
+sử dụng trong các bài học ngày hôm qua.
+
+5
+00:00:12,480 --> 00:00:17,480
+Dự án cuối cùng của ngày hôm nay mà chúng ta sẽ xây dựng là một trò chơi đố vui.
+
+6
+00:00:18,180 --> 00:00:20,460
+Vì vậy, chúng tôi sẽ có thể tạo một câu đố đúng-sai,
+
+7
+00:00:20,850 --> 00:00:22,260
+và chúng ta sẽ có thể chơi câu đố,
+
+8
+00:00:22,620 --> 00:00:25,110
+trả lời các câu hỏi và theo dõi điểm số.
+
+9
+00:00:25,560 --> 00:00:30,560
+Nhưng chúng tôi sẽ xây dựng điều này hoàn toàn bằng cách sử dụng Lập trình hướng đối tượng. Là
+
+10
+00:00:30,570 --> 00:00:35,040
+sẽ tự tạo các lớp của chúng ta và sau đó sử dụng các đối tượng được tạo
+
+11
+00:00:35,040 --> 00:00:39,480
+từ các lớp đó để xây dựng trò chơi này. Và khi bạn đã hoàn thành,
+
+12
+00:00:39,570 --> 00:00:44,520
+đây là những gì bạn sẽ có thể tạo. Câu hỏi một, Máu của một con sên có màu xanh lá cây,
+
+13
+00:00:44,520 --> 00:00:47,760
+đúng hay sai. ĐÚNG VẬY. Bây giờ,
+
+14
+00:00:47,790 --> 00:00:51,090
+nếu bạn muốn chơi một vòng với dự án cuối cùng để có cảm nhận về cách
+
+15
+00:00:51,090 --> 00:00:51,690
+nó hoạt động,
+
+16
+00:00:51,690 --> 00:00:56,550
+thì bạn sẽ tìm thấy một liên kết đến phiên bản cuối cùng của trò chơi đố vui này trong khóa học
+
+17
+00:00:56,550 --> 00:00:58,920
+tài nguyên. Nhưng khi bạn đã sẵn sàng,
+
+18
+00:00:59,130 --> 00:01:02,610
+sau đó chuyển sang bài học tiếp theo và chúng ta sẽ bắt đầu bằng cách tìm hiểu cách
+
+19
+00:01:02,610 --> 00:01:07,110
+để tạo các lớp tùy chỉnh của riêng chúng tôi. Vì vậy, đối với tất cả những điều đó và hơn thế nữa,
+
+20
+00:01:07,230 --> 00:01:07,710
+Tôi sẽ gặp bạn ở đó.
